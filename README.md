@@ -18,7 +18,7 @@ Veja abaixo como o **Sorteador** se apresenta:
 
 ### Exemplo da interface:
 
-<img src="assets/img-dado.png" width="300px">
+<img src="https://github.com/Queias007/Sorteador/blob/main/assets/img-sorteio.png?raw=true" width="70%">
 
 
 
