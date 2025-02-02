@@ -18,7 +18,9 @@ Veja abaixo como o **Sorteador** se apresenta:
 
 ### Exemplo da interface:
 
-![Exemplo do Sorteador](https://github.com/Queias007/Sorteador/blob/main/assets/sorteador-preview.png?raw=true)
+<img src="assets/img-dado.png" width="300px">
+
+
 
 ---
 
