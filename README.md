@@ -22,7 +22,9 @@ Veja abaixo como o **Sorteador** se apresenta:
 
 ---
 
-## 📂 Como Executar o Projeto
+## 📂 Como Executar o Projeto:
+
+<pre><code>https://queias007.github.io/Sorteador/</code></pre>
 
 ## ⚙️ Funcionalidades
 
